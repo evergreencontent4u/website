@@ -29,3 +29,9 @@ color: white;
 .navbar-inverse .navbar-brand {
 color: white;
 }
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+
+}
